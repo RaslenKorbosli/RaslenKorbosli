@@ -8,7 +8,7 @@
 <div align="center">
  👀 I’m interested in web development                       
  
- 🌱 I’m currently learning React
+ 🌱 I’m currently learning typescript 
 <br/>
 
  </div>
@@ -29,6 +29,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,github,tailwind,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vscode,github,tailwind,git,mysql" />
 </div>
 
